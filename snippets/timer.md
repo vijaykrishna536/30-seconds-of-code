@@ -1,5 +1,5 @@
 ---
-title: Timer to a certain date
+title: Timer
 tags: date,begginer
 ---
 
